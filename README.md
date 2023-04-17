@@ -1,6 +1,6 @@
 <h1>
   <img src="https://coraza.io/images/logo_shield_only.png" align="left" height="46px" alt=""/>&nbsp;
-  <span>Coraza - Web Application Firewall</span>
+  <span>Coraza - Web Application Firewall</span> etetsets
 </h1>
 
 [![Regression Tests](https://github.com/corazawaf/coraza/actions/workflows/regression.yml/badge.svg)](https://github.com/corazawaf/coraza/actions/workflows/regression.yml)
